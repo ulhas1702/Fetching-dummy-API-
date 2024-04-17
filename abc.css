@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+button{
+    margin: 5%;
+    background-color: black;
+    color: bisque;
+}
+
+table{
+    border: 5%;
+}
+
+th{
+    row-gap: 50px;
+    cursor: pointer;
+}
